@@ -62,7 +62,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or contributions, please contact [your.email@example.com].
+For questions or contributions, please contact [jwangetha@gmail.com].
 
 ---
 Still under construction.
